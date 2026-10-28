@@ -396,5 +396,3 @@ AI tooling evolves rapidly. Tying business logic to a specific LLM SDK means sig
 MIT License — free to use, modify, and distribute.
 
 ---
-
-*Built with ❤️ to make AI systems that always tell the truth about your data.*
